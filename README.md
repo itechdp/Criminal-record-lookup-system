@@ -36,7 +36,7 @@ Ensure that the data is correctly formatted and does not contain any missing or 
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Dhrumil Patel](https://github.com/itechdp)
 
 ## License
 
