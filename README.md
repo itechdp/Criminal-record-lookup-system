@@ -1,4 +1,4 @@
-# CrimiCheck: Criminal Record Lookup System
+# Criminal Record Lookup System
 
 CrimiCheck is a simple Streamlit web application that allows users to check for criminal records in a database. Users can input the name, city, age, and gender of an individual, and the system will search the database for any matching records. If a record is found, it displays details such as the crime committed, sentence length, and arrest date.
 
