@@ -16,7 +16,7 @@ class Main:
         self.name = st.text_input("Enter Name:")
         self.city = st.text_input('Enter City:')
         self.age = st.number_input("Enter Age:")
-        self.gender = st.radio('Select Gender:',['male',"female"])
+        self.gender = st.radio('Select Gender:',['male',"female","others"])
 
     def _convert_to_lowercase(self, string):
         return string.lower()
